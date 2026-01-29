@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a freshman at Bilkent University majoring in Computer Science.
+My name is Miran Kan and I am a freshman at Bilkent University majoring in Computer Science.
 
 - 🔭 I’m currently working on my CS101 assignments.
 - 🌱 I’m interested in learning Java and software development.
