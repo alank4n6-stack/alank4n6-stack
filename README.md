@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there! 👋
+
+I am a freshman at Bilkent University majoring in Computer Science.
+
+- 🔭 I’m currently working on my CS101 assignments.
+- 🌱 I’m interested in learning Java and software development.
+- ⚡ Fun fact: , I am a fragrance collector and I was a professional basketball player Hi there 👋
 
 <!--
 **alank4n6-stack/alank4n6-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
